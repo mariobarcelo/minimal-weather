@@ -20,6 +20,6 @@
 
 @media (prefers-reduced-motion: no-preference) {
 	.spinner {
-		animation: spin 10000ms linear infinite;
+		animation: spin 1000ms linear infinite;
 	}
 }
