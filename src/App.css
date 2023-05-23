@@ -1,0 +1,12 @@
+body {
+	background: hsl(40deg 100% 85%);
+	padding: 32px;
+}
+p {
+	text-align: center;
+}
+.temperature {
+	display: block;
+	font-size: 3rem;
+	text-align: center;
+}

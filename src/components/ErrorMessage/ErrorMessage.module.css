@@ -1,0 +1,7 @@
+.errorCard {
+	background-color: hsl(359, 71%, 75%);
+	border-radius: 8px;
+	max-width: fit-content;
+	padding: 16px 32px;
+	margin: 8px auto;
+}
