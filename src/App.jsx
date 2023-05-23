@@ -12,7 +12,7 @@ function App() {
 	// Status:
 	// idle | loading | success | geolocationFetchingError | dataFetchingError
 	const [status, setStatus] = React.useState('idle');
-	console.log('status: ', status);
+	// console.log('status: ', status);
 
 	/* Dynamic ENDPOINT */
 	const ENDPOINT = `https://api.open-meteo.com/v1/forecast?latitude=${userPosition.latitude}&longitude=${userPosition.longitude}&hourly=temperature_2m&current_weather=true`;
