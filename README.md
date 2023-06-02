@@ -17,6 +17,7 @@ A minimal weather app made with React!
 
 ## Things I've learned 🎓
 
+- [Open Meteo API](https://open-meteo.com/)
 - [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API).
 - [SWR](https://swr.vercel.app/) - React Hooks for Data Fetching.
 - [Feather Icons](https://feathericons.com/).
