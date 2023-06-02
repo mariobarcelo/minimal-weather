@@ -21,7 +21,7 @@ A minimal weather app made with React!
 - [SWR](https://swr.vercel.app/) - React Hooks for Data Fetching.
 - [Feather Icons](https://feathericons.com/).
 - [VisuallyHidden](https://www.joshwcomeau.com/snippets/react-components/visually-hidden/) component to describe items such as icons to people using screen readers.
-- [Preferes-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion) media feature to adjust and care for the user-selected motion reduction settings.
+- [Prefers-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion) media feature to adjust and care for the user-selected motion reduction settings.
 
 ## Going further 🚀
 These would be the possible next steps for this project:
